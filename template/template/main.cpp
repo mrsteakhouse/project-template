@@ -23,7 +23,7 @@ int main()
 	{
 		ShowClassChooseInterface(&player);
 	}
-	//name eingeben
+	//name eingeben    
 	SetPlayerName(&player);
 	player.level = 1; //F: ne hab was getestet^^
 	player.SetStats();
